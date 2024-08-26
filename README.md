@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joseNilton91">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Experto+en+Spring+Boot+y+SQL+Server;Apasionado+por+la+programación+y+el+desarrollo+de+software">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!; Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programación+y+el+desarrollo+de+software">
   </a>
 </p>
 
