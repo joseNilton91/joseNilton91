@@ -9,7 +9,7 @@
 ## Sobre Mí
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="150" alt="Perfil de José Nilton">
+  <img src="[https://apliint.com/wp-content/uploads/2020/11/Principales-tipos-de-desarrolladores.jpg]" width="150" alt="Perfil de José Nilton">
 </p>
 
 - **Desarrollador Backend** con experiencia en Java y el framework Spring Boot.
