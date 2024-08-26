@@ -49,15 +49,6 @@
 
 <br>
 
----
-
-<br>
-
-Última edición: 26/08/2024
-
-- [Descargar la foto de perfil de Instagram usando Python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convertir una imagen a un boceto usando Python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Subir tu proyecto/archivos a GitHub usando comandos](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 
 ---
 
