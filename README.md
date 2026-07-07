@@ -1,12 +1,11 @@
 <h1 align="center">
   <b>¡Hola, soy José Nilton!</b>
-  https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/joseNilton91">
-    https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software" alt="Typing SVG" />
 </p>
 
 
