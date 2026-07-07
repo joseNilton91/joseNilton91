@@ -1,11 +1,11 @@
 <h1 align="center">
   <b>¡Hola, soy José Nilton!</b>
- [ https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlyYTB0NGtoZGg5cnBpZTM0Zndnc3hlMWJzcHozbWxucHE3ajhhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+  https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 </h1>
 
 <p align="center">
   <a href="https://github.com/joseNilton91">
-    https://readme-typing-svg.demolab.com?font=Time+New+Roman&amp;color=00FFFF&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software
+    https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software
   </a>
 </p>
 
