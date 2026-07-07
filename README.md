@@ -1,10 +1,14 @@
-<h1 align="center"><b>¡Hola, soy José Nilton!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>¡Hola, soy José Nilton!</b>
+  https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
+</h1>
 
 <p align="center">
   <a href="https://github.com/joseNilton91">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!; Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programación+y+el+desarrollo+de+software">
+    https://readme-typing-svg.demolab.com?font=Time+New+Roman&amp;color=00FFFF&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software
   </a>
 </p>
+
 
 ## Sobre Mí
 
