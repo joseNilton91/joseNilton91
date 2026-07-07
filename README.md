@@ -1,4 +1,4 @@
-<!-- BANNER DE CABECERA (gradiente + texto) -->
+<!-- BANNER DE CABECERA -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20Nilton&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55" width="100%"/>
 </p>
@@ -16,19 +16,17 @@
 
 ---
 
-<!-- SOBRE MÍ -->
 ## 🧑‍💻 Sobre Mí
 
 - 🔭 **Desarrollador Backend** con experiencia en **Java** y el framework **Spring Boot**.
 - 🗄️ Manejo de bases de datos con **SQL Server**.
-- 📚 Actualmente en el **6º semestre** de Ingenieria en Ciencia de Datos.
-- 📚 Tecnologo en** de Diseño y Programación de Soluciones de Software como Servicio (SaaS).
-- 📚 Tecnologo en** Analisis y desarrollo de sistemas de la informacion.
+- 📚 Actualmente en el **6º semestre** de **Ingeniería en Ciencia de Datos**.
+- 🎓 Tecnólogo en **Diseño y Programación de Soluciones de Software como Servicio (SaaS)**.
+- 🎓 Tecnólogo en **Análisis y Desarrollo de Sistemas de Información**.
 - 🚀 Abierto a oportunidades de **prácticas profesionales** y **empleo**.
 
 ---
 
-<!-- HABILIDADES -->
 ## 🛠️ Habilidades
 
 <p align="center">
@@ -37,10 +35,10 @@
   <strong>Lenguajes:</strong><br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power Apps-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power Automate-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/HTML-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/JavaScript-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br><br>
 
   <!-- Herramientas -->
@@ -49,13 +47,11 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  
 
 </p>
 
 ---
 
-<!-- ESTADÍSTICAS DE GITHUB -->
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -63,15 +59,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseNilton91&show_icons=true&locale=en&layout=compact&line_height=25&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,130F40" width="375" alt="Top Langs" />
 </div>
 
-<!-- TARJETAS ADICIONALES (RACHA Y CONTRIBUCIONES) -->
+<!-- TARJETAS DE RACHA Y TROFEOS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseNilton91&theme=dark&background=0,000000,130F40&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF" width="450" />
+  <!-- Streak: fondo sólido y colores personalizados -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseNilton91&theme=dark&background=130F40&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC" width="450" />
+  <!-- Trofeos: 3 columnas, tema oscuro -->
   <img src="https://github-profile-trophy.vercel.app/?username=joseNilton91&theme=darkhub&column=3&margin-w=15&margin-h=15" width="375" alt="Trophies" />
 </div>
 
 ---
 
-<!-- CONTADOR DE VISITAS Y BADGE DE PERFIL -->
+## 👁️ Visitas y Seguidores
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joseNilton91&label=Visitas%20al%20perfil&color=00FFFF&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/joseNilton91?label=Seguidores&style=social" alt="Followers" />
@@ -79,7 +78,6 @@
 
 ---
 
-<!-- REDES SOCIALES -->
 ## 🌐 Conecta Conmigo
 
 <p align="center">
@@ -89,7 +87,6 @@
   <a href="mailto:tucorreo@ejemplo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Puedes agregar más redes si quieres -->
 </p>
 
 ---
@@ -100,4 +97,3 @@
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </p>
-
