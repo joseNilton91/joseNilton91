@@ -80,16 +80,16 @@ disponibilidad: "Abierto a prácticas profesionales y empleo"
 <tr>
 <td width="50%">
 
-### 📦 [Nombre del Proyecto 1](https://github.com/joseNilton91)
-Breve descripción de qué resuelve el proyecto y qué lo hace interesante.
+### 📦 [Nombre del Proyecto ](https://github.com/joseNilton91)
+restaurante universitario, sistema que permite crear reservas basado en el cronograma del estudiante.
 <br>`Java` `Spring Boot` `SQL Server`
 
 </td>
 <td width="50%">
 
-### 📦 [Nombre del Proyecto 2](https://github.com/joseNilton91)
-Breve descripción de qué resuelve el proyecto y qué lo hace interesante.
-<br>`Java` `REST API` `Power Automate`
+### 📦 [Nombre del Proyecto ](https://github.com/joseNilton91)
+sistema de reuniones
+<br>`Java` `REST API`
 
 </td>
 </tr>
