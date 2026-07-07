@@ -21,7 +21,9 @@
 
 - 🔭 **Desarrollador Backend** con experiencia en **Java** y el framework **Spring Boot**.
 - 🗄️ Manejo de bases de datos con **SQL Server**.
-- 📚 Actualmente en el **6º semestre** de Diseño y Programación de Soluciones de Software como Servicio (SaaS).
+- 📚 Actualmente en el **6º semestre** de Ingenieria en Ciencia de Datos.
+- 📚 Tecnologo en** de Diseño y Programación de Soluciones de Software como Servicio (SaaS).
+- 📚 Tecnologo en** Analisis y desarrollo de sistemas de la informacion.
 - 🚀 Abierto a oportunidades de **prácticas profesionales** y **empleo**.
 
 ---
@@ -35,6 +37,10 @@
   <strong>Lenguajes:</strong><br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power Apps-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power Automate-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/HTML-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/JavaScript-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <br><br>
 
   <!-- Herramientas -->
@@ -43,6 +49,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
 
 </p>
 
