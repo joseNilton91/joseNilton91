@@ -8,10 +8,6 @@
 
 ## Sobre Mí
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="150" alt="Perfil de José Nilton">
-</p>
-
 - **Desarrollador Backend** con experiencia en Java y el framework Spring Boot.
 - Manejo de bases de datos con SQL Server.
 - Actualmente en el 6º semestre de Diseño y Programación de Soluciones de Software como Servicio (SaaS).
