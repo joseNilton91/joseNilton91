@@ -1,99 +1,120 @@
-<!-- BANNER DE CABECERA -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20Nilton&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFFF&height=220&section=header&text=José%20Nilton%20Orejuela&fontSize=44&fontAlignY=38&fontColor=FFFFFF&desc=Backend%20Developer%20·%20Java%20·%20Spring%20Boot%20·%20SQL%20Server&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- SALUDO CON GIF -->
-<h1 align="center">
-  ¡Hola, soy José Nilton! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
-
-<!-- TEXTO MECANOGRAFIADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=900&height=100&lines=%C2%A1Bienvenido+a+mi+perfil!;Desarrollador+Backend+con+experiencia+en+Java;Spring+Boot+y+SQL+Server;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+de+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%C2%A1Bienvenido+a+mi+perfil!;Construyo+APIs+robustas+con+Java+%2B+Spring+Boot;Me+apasionan+los+datos+y+la+arquitectura+backend;Abierto+a+pr%C3%A1cticas+y+oportunidades+laborales" alt="Typing SVG" />
 </p>
 
----
-
-## 🧑‍💻 Sobre Mí
-
-- 🔭 **Desarrollador Backend** con experiencia en **Java** y el framework **Spring Boot**.
-- 🗄️ Manejo de bases de datos con **SQL Server**.
-- 📚 Actualmente en el **6º semestre** de **Ingeniería en Ciencia de Datos**.
-- 🎓 Tecnólogo en **Diseño y Programación de Soluciones de Software como Servicio (SaaS)**.
-- 🎓 Tecnólogo en **Análisis y Desarrollo de Sistemas de Información**.
-- 🚀 Abierto a oportunidades de **prácticas profesionales** y **empleo**.
-
----
-
-## 🛠️ Habilidades
-
 <p align="center">
-
-  <!-- Lenguajes -->
-  <strong>Lenguajes:</strong><br>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br><br>
-
-  <!-- Herramientas -->
-  <strong>Herramientas y Tecnologías:</strong><br>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
+  <a href="https://www.linkedin.com/in/jos%C3%A9-nilton-orejuela-palacios-762594248">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/joseNilton91">
+    <img src="https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseNilton91&label=Visitas%20al%20perfil&color=00FFFF&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/joseNilton91?label=Seguidores&style=flat-square&color=00FFFF"/>
+</p>
 
+<br>
+
+<!-- ===================== SOBRE MÍ ===================== -->
+## 🧑‍💻 Sobre mí
+
+```yaml
+nombre: "José Nilton Orejuela Palacios"
+rol: "Desarrollador Backend"
+stack_principal: ["Java", "Spring Boot", "SQL Server"]
+formacion:
+  actual: "Ingeniería en Ciencia de Datos — 6º semestre"
+  tecnologo_1: "Diseño y Programación de Soluciones SaaS"
+  tecnologo_2: "Análisis y Desarrollo de Sistemas de Información"
+disponibilidad: "Abierto a prácticas profesionales y empleo"
+```
+
+- 🔭 Enfocado en el desarrollo de **APIs y servicios backend** con **Java** y **Spring Boot**.
+- 🗄️ Diseño y gestión de bases de datos relacionales con **SQL Server**.
+- ⚙️ Experiencia con automatización low-code en **Power Apps** y **Power Automate**.
+- 📚 Estudiante de **Ingeniería en Ciencia de Datos**, combinando desarrollo de software con análisis de datos.
+- 🎓 Doble formación tecnológica en desarrollo de software y análisis de sistemas.
+- 🚀 Buscando activamente **prácticas profesionales** y **primeras oportunidades laborales**.
+
+<br>
+
+<!-- ===================== STACK ===================== -->
+## 🛠️ Stack Tecnológico
+
+<table align="center">
+<tr>
+<td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br><b>Java</b></td>
+<td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br><b>Spring Boot</b></td>
+<td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/><br><b>SQL Server</b></td>
+<td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br><b>JavaScript</b></td>
+<td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br><b>HTML5</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br><b>Git</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br><b>GitHub</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br><b>VS Code</b></td>
+<td align="center"><img src="https://img.shields.io/badge/-PA-742774?style=flat-square&logo=powerapps&logoColor=white" width="70"/><br><b>Power Apps</b></td>
+<td align="center"><img src="https://img.shields.io/badge/-PAu-0066CC?style=flat-square&logo=powerautomate&logoColor=white" width="70"/><br><b>Power Automate</b></td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== PROYECTOS ===================== -->
+## 🚀 Proyectos Destacados
+
+> Reemplaza estos bloques con tus repos reales — este formato resalta mucho más que una simple lista de enlaces.
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📦 [Nombre del Proyecto 1](https://github.com/joseNilton91)
+Breve descripción de qué resuelve el proyecto y qué lo hace interesante.
+<br>`Java` `Spring Boot` `SQL Server`
+
+</td>
+<td width="50%">
+
+### 📦 [Nombre del Proyecto 2](https://github.com/joseNilton91)
+Breve descripción de qué resuelve el proyecto y qué lo hace interesante.
+<br>`Java` `REST API` `Power Automate`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== ESTADÍSTICAS ===================== -->
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseNilton91&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,130F40" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseNilton91&show_icons=true&locale=en&layout=compact&line_height=25&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0,000000,130F40" width="375" alt="Top Langs" />
-</div>
-
-<!-- TARJETAS DE RACHA Y TROFEOS -->
-<div align="center">
-  <!-- Streak: fondo sólido y colores personalizados -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseNilton91&theme=dark&background=130F40&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC" width="450" />
-  <!-- Trofeos: 3 columnas, tema oscuro -->
-  <img src="https://github-profile-trophy.vercel.app/?username=joseNilton91&theme=darkhub&column=3&margin-w=15&margin-h=15" width="375" alt="Trophies" />
-</div>
-
----
-
-## 👁️ Visitas y Seguidores
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseNilton91&label=Visitas%20al%20perfil&color=00FFFF&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/joseNilton91?label=Seguidores&style=social" alt="Followers" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseNilton91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseNilton91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="35%" />
 </p>
 
----
-
-## 🌐 Conecta Conmigo
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-nilton-orejuela-palacios-762594248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tucorreo@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseNilton91&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joseNilton91&theme=tokyonight&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="35%" />
 </p>
 
----
+<br>
 
-<!-- PIE DE PÁGINA -->
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <b>✨ "La programación es el arte de resolver problemas" ✨</b>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <i>"La programación es el arte de resolver problemas."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0F2027&height=120&section=footer" width="100%"/>
